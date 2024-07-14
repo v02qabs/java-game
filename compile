@@ -1,0 +1,3 @@
+javac hiro/game/MainActivity.java
+javac hiro/game/type-game/MainActivity.java
+
